@@ -108,7 +108,4 @@ All cases included in this project are simulated and created exclusively for edu
 
 No real patient data, proprietary safety databases, or confidential pharmaceutical information are used.
 
----
-
-## 📂 Project Structure
 
