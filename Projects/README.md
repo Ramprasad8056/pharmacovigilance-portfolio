@@ -33,7 +33,7 @@ To simulate end-to-end Individual Case Safety Report (ICSR) processing using str
 - FDA & EMA Post-Marketing Reporting Principles
 
 📂 Navigate to:  
-`Project-01-ICSR-Case-Processing`
+[`Project-01-ICSR-Case-Processing`](https://github.com/Ramprasad8056/pharmacovigilance-portfolio/tree/main/Projects/Project-01-ICSR-Case-Processing)
 
 ---
 
